@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
   }
   else{
     document.body.classList.remove("dark-theme");
-    icon.src = "img/moon-solid (1).svg";
+    icon.src = "moon-solid (1).svg";
   }
 
   icon.onclick = function(){
@@ -15,11 +15,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
     //save the theme preference in localStorage
     if(document.body.classList.contains("dark-theme")){
-      icon.src = "img/sun-solid (1).svg";
+      icon.src = "sun-solid (1).svg";
       localStorage.setItem("theme", "dark");
     }
     else{
-      icon.src = "img/moon-solid (1).svg";
+      icon.src = "moon-solid (1).svg";
       localStorage.setItem("theme", "light");
     }
   };
