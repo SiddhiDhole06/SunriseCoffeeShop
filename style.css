@@ -79,7 +79,7 @@ body
 
 header
 {
-    background-image: url(img/location.jpg);
+    background-image: url(location.jpg);
     height: 100vh;
     min-height: 550px;
     width: 100%;
@@ -113,7 +113,7 @@ header p
 }
 .header3
 {
-    background-image: url(img/cup4.jpg);
+    background-image: url(cup4.jpg);
     height: 90vh;
     min-height: 450px;
     width: 100%;
@@ -134,7 +134,7 @@ header p
 }
 .header2
 {
-    background-image: url(img/banner1.webp);
+    background-image: url(banner1.webp);
     height: 90vh;
     min-height: 450px;
     width: 100%;
@@ -157,7 +157,7 @@ header p
 }
 .header4
 {
-    background-image: url(img/coffee-rain.avif);
+    background-image: url(coffee-rain.avif);
     height: 95vh;
     min-height: 450px;
     width: 100%;
@@ -178,7 +178,7 @@ header p
 }
 .header5
 {
-    background-image: url(img/about2.webp);
+    background-image: url(about2.webp);
     height: 90vh;
     min-height: 450px;
     width: 100%;
